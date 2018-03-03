@@ -1,0 +1,9 @@
+
+# cat=basic//10; type=string; label=List of folders to check for changed files separated by a pipe | symbol.
+# includeFolders =
+
+# cat=basic//20; type=string; label=List of page uids separated by comma for which the cache should be cleared on changes to files included on those pages by an uploas content element.
+# includePages =
+
+# cat=advanced//10; type=boolean; label=Run meta data extraction after index update.
+triggerMetaDataExtraction = true

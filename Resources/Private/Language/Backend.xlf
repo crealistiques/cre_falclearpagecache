@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2018-03-01T09:11:39Z" product-name="cre_falclearpagecache">
+        <header/>
+        <body>
+            <trans-unit id="extension.title">
+                <source>Crealistiques FAL Clear Page Cache</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
